@@ -1,0 +1,35 @@
+[
+  "null",
+  {
+    "connect.name": "digital.thinkport.javaland.NewInsuranceRequest",
+    "fields": [
+      {
+        "default": null,
+        "name": "firstName",
+        "type": [
+          "null",
+          "string"
+        ]
+      },
+      {
+        "default": null,
+        "name": "lastName",
+        "type": [
+          "null",
+          "string"
+        ]
+      },
+      {
+        "default": null,
+        "name": "typeOfInsurance",
+        "type": [
+          "null",
+          "string"
+        ]
+      }
+    ],
+    "name": "NewInsuranceRequest",
+    "namespace": "digital.thinkport.javaland",
+    "type": "record"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  "null",
+  {
+    "connect.name": "digital.thinkport.javaland.CreditRatingResult",
+    "fields": [
+      {
+        "default": null,
+        "name": "ratingResult",
+        "type": [
+          "null",
+          "int"
+        ]
+      }
+    ],
+    "name": "CreditRatingResult",
+    "namespace": "digital.thinkport.javaland",
+    "type": "record"
+  }
+]

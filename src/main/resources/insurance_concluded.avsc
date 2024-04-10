@@ -1,0 +1,51 @@
+[
+  "null",
+  {
+    "connect.name": "digital.thinkport.javaland.InsuranceConcluded",
+    "fields": [
+      {
+        "default": null,
+        "name": "firstName",
+        "type": [
+          "null",
+          "string"
+        ]
+      },
+      {
+        "default": null,
+        "name": "lastName",
+        "type": [
+          "null",
+          "string"
+        ]
+      },
+      {
+        "default": null,
+        "name": "typeOfInsurance",
+        "type": [
+          "null",
+          "string"
+        ]
+      },
+      {
+        "default": null,
+        "name": "ratingResult",
+        "type": [
+          "null",
+          "int"
+        ]
+      },
+      {
+        "default": null,
+        "name": "conclusionTimestamp",
+        "type": [
+          "null",
+          "long"
+        ]
+      }
+    ],
+    "name": "InsuranceConcluded",
+    "namespace": "digital.thinkport.javaland",
+    "type": "record"
+  }
+]
